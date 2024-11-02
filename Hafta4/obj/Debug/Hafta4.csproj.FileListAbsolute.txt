@@ -1,0 +1,6 @@
+C:\Users\yahya\source\repos\OOPLab4\Hafta4\bin\Debug\Hafta4.exe.config
+C:\Users\yahya\source\repos\OOPLab4\Hafta4\bin\Debug\Hafta4.exe
+C:\Users\yahya\source\repos\OOPLab4\Hafta4\bin\Debug\Hafta4.pdb
+C:\Users\yahya\source\repos\OOPLab4\Hafta4\obj\Debug\Hafta4.csproj.CoreCompileInputs.cache
+C:\Users\yahya\source\repos\OOPLab4\Hafta4\obj\Debug\Hafta4.exe
+C:\Users\yahya\source\repos\OOPLab4\Hafta4\obj\Debug\Hafta4.pdb
